@@ -1,0 +1,3 @@
+protocol,train_images,embed_images,sec_per_train_image_first,sec_per_train_image_latest,sec_per_train_image_mean,sec_per_embed_image,images_trained_in_budget,ltm_centroids,est_hours_per_run_lower_bound,est_hours_5_orders_on_4_cores,cpu_cores
+six_objects,2520,7200,0.012,0.283,0.234,0.069,840,3222,0.3,0.4,4
+ten_categories,4199,17997,0.012,0.283,0.234,0.069,840,3222,0.7,0.8,4
