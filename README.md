@@ -55,4 +55,5 @@ The last section of the notebook, *"Where each thesis result comes from"*, maps 
 
 ## Citation
 
-Sana Akhtar Naseer, *RKEM-Net: Label-Free Continual Object Learning from Video*, MS thesis, COMSATS University Islamabad, Lahore Campus. [Year]
+Sana Akhtar Naseer, *RKEM-Net: Label-Free Continual Object Learning from Video*, MS thesis, University of Central Punjab, Lahore  [2023].
+
